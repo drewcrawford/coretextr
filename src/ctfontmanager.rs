@@ -16,7 +16,7 @@ impl CTFontManager {
             None
         }
         else {
-            Some(unsafe{ StrongCell::assuming_retained(raw) })
+            Some(unsafe{ StrongCell::assuming_retained_nonnull(raw) })
         }
     }
 }

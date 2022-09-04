@@ -11,7 +11,7 @@ checksum = "2fff2a6927b3bb87f9595d67196a70493f627687a71d87a0d692242c33f58c11"
 [[package]]
 name = "core-foundationr"
 version = "0.1.0"
-source = "git+https://github.com/drewcrawford/core-foundationr#5f49c9fe2e9d8dc73971d1f61c380fc3b28626ce"
+source = "git+https://github.com/drewcrawford/core-foundationr#980ecc768af22cba07394ea69d261320909d0aa6"
 
 [[package]]
 name = "coretextr"
