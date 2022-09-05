@@ -7,7 +7,9 @@ Provides select Rust bindings for Apple [Core Text](https://developer.apple.com/
 
 # Implementation status
 
-This is very early and just contains a few API.
+* `CTFontDescriptor`
+* `CTFontManager::CreateFontDescriptorFromData`
+* Most of `SFNTLayoutTypes.h`
 
 # Why this crate
 
